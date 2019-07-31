@@ -26,6 +26,8 @@
 
 ![SZIFS](Images/IFS.jpg)
 
+---
+
 # 启蒙军赢得第三季度Myriad XMA的胜利
 
 经过一天的鏖战，启蒙军以5：3的总比分赢下了第三季度Myriad XMA。根据官方剧情，名为Myriad的威胁已经被打败，赢下了这季度XMA的启蒙军将在未来Nemesis系列XMA的总决赛上获得一项关键优势的优先选择权。
@@ -41,6 +43,8 @@
 
 > 来源：https://storage.googleapis.com/ingress-internal-event-data/nemesis-myriad/score.html 
 
+---
+
 # Ingress Prime 2.28版更新被跳过
 
 Niantic决定跳过Ingress Prime 2.28版更新，直接将更新内容顺延到2.29版中一起发布。
@@ -50,11 +54,15 @@ Niantic决定跳过Ingress Prime 2.28版更新，直接将更新内容顺延到2
 
 > 来源：https://community.ingress.com/en/discussion/2777/update-on-2-28-release#latest
 
+---
+
 # Niantic禁用了2.27版Ingress Prime的按钮反馈特效
 
 Niantic静悄悄地通过服务端更新移除了Ingress Prime 2.27版新增的按钮反馈特效，推测是因为有不少玩家在Ingress Community上表达了一定的负面意见。
 
 ![Button Feedback](Images/feedback.jpg)
+
+---
 
 # UPH限时活动奖励已上线
 
@@ -63,6 +71,8 @@ Unique Hack Challenge达成后的第一项限时奖励已激活，以下是未�
 2. 8月2日凌晨1时至8月6日凌晨1时期间，每位特工可以在每个portal上插L8与L7的脚各两支，L6与L5的脚各四支
 
 ![UPH](Images/uph.jpg)
+
+---
 
 # Ingress新活动Field Tests开放申请
 
@@ -77,6 +87,8 @@ Unique Hack Challenge达成后的第一项限时奖励已激活，以下是未�
 ![FieldTests](Images/fieldtests.jpg)
 
 > 来源：https://docs.google.com/forms/d/e/1FAIpQLSfhF7wrQ_WdyhnuWUMCl96ygpEvM87PR6f9FGew_zbfZG2ahQ/viewform
+
+---
 
 # Niantic修改了作弊玩家的惩罚机制
 
