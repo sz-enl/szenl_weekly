@@ -1,27 +1,24 @@
 # 深圳8月IFS即将举行
+
 2019年8月深圳 #IngressFS 即将在购物公园与东门步行街举办！
 
 日期：2019 年 8 月 3 日
 
 时间表：
-
 - 17:00 开始签到
 - 18:00 IFS 开始
 - 20:00 IFS 结束，开始签退
 - 20:30 补给 po 上线
 
 购物公园场
-
 - 地点：福田区COCO Park
 - 活动报名链接：https://fevgames.net/ifs/event/?e=13502
 
 东门场
-
 - 地点：罗湖区东门步行街
 - 活动报名链接：https://fevgames.net/ifs/event/?e=13501
 
-聊天群组：@SZIFSChat
-
+聊天群组：@SZIFSChat \
 活动频道：@SZIFSChannel
 
 ![SZIFS](Images/IFS.jpg)
@@ -48,6 +45,7 @@
 # Ingress Prime 2.28版更新被跳过
 
 Niantic决定跳过Ingress Prime 2.28版更新，直接将更新内容顺延到2.29版中一起发布。
+
 与2.24版更新顺延的情况类似，本次顺延也是因为Niantic在QA过程中发现了新的问题，需要更多时间修复。
 
 ![Skip 2.28](Images/2.28.jpg)
@@ -93,7 +91,6 @@ Unique Hack Challenge达成后的第一项限时奖励已激活，以下是未�
 # Niantic修改了作弊玩家的惩罚机制
 
 Niantic宣布将于未来数周内引入新的违规特工处分程序。如特工违反Niantic服务条款或Niantic玩家准则，将受到三阶段的处分：
-
 1. 游戏内警告：将显示在侦测器 (Scanner) 中约七天，且须在继续Ingress前确认已明白此警告内容。再犯者将会受到第二阶段处分。
 
 2. 暂时封禁：账户将被停用约三十天。处分结束后，特工会在侦测器中收到警告，需确认警告内容才能继续Ingress。
