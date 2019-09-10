@@ -1,4 +1,4 @@
-# 2019 W31-32 Aug 15 - Aug 27
+# 2019 W33-34 Aug 15 - Aug 27
 
 ## Ingress新活动Field Tests申请结果公布，澳门即将举办珠三角第一次Field Tests活动
 
