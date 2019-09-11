@@ -11,7 +11,7 @@ Niantic公开了有关即将在9月14日举办的FieldTests活动的一些细节
 - 按时完成六项挑战的玩家将获得活动奖章
 - 在任何一项挑战中取得城市前10%成绩的玩家获得的活动奖章将升级为精英版
 - 活动基于个人而非阵营，所以没有阵营POC
-- 需要提前在线注册，注册链接稍后公开
+- 需要提前在线注册
 
 下附活动时间表（本地时间）：
 
@@ -124,7 +124,7 @@ Niantic官方确认经典款Ingress客户端Scanner\[REDACTED\]将在2019年9月
 
 ## 在Android 10上运行Scanner[REDACTED]有机会暂时封号
 
-Niantic通过推特提醒大家：最新版的Ingress Prime已经支持Android 10，但是老旧的Scanner\[REDACTED\]并不支持。在Android 10上运行Scanner\[REDACTED\]有机会导致账号被暂时封禁。如果不幸遭遇此情况，请在官方帮助评太申诉解封账号。
+Niantic通过推特提醒大家：最新版的Ingress Prime已经支持Android 10，但是老旧的Scanner\[REDACTED\]并不支持。在Android 10上运行Scanner\[REDACTED\]有机会导致账号被暂时封禁。如果不幸遭遇此情况，请在官方帮助平台申诉解封账号。
 
 ![Android10](Images/android10.jpg)
 
